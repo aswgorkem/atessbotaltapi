@@ -48,7 +48,7 @@
     "discord-rpc": "^3.0.1",
     "discord.js": "^11.2.1",
     "discord.js-commando": "^0.10.0",
-    "electron": "^3.0.10",
+    "electron": "^9.1.0",
     "emoji-regex": "^7.0.1",
     "encrypt_decrypt": "^1.0.0",
     "enmap": "^0.3.2",
